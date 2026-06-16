@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Sistema de Automatización para Planta Procesadora GHB",
+    "title": "Elevador Volteador de Canecas - Electrohidráulico",
     "category": "Automatización",
-    "description": "Implementación completa de sistema SCADA y PLC para control de línea de producción, reduciendo tiempos de operación en un 40%.",
-    "client": "Industria Alimenticia",
+    "description": "Producción de productos de alta precisión mediante tecnologías de matricería y CNC, garantizando calidad y eficiencia en cada pieza fabricada.",
+    "client": "Industria Cosmética",
     "year": "2024",
-    "folder": "upcoweb/projects/automatizacion/planta-procesadora",
-    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/automatizacion/planta-procesadora/portada.jpg"
+    "folder": "upcoweb/projects/automatizacion/elevadorCanecas",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732909307/upcoweb/projects/automatizacion/elevadorCanecas/cgvub0dcz2t1qqcgifew.jpg"
   },
   {
     "id": 2,
