@@ -78,5 +78,75 @@
     "year": "2024",
     "folder": "upcoweb/projects/movilidad_vertical/elevadortijeras",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736268149/upcoweb/projects/movilidad_vertical/elevadortijeras/knilcnfryq0ptjshxeu4.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Elevadores de Autos",
+    "category": "Movilidad Vertical",
+    "description": "Diseñamos e implementamos elevadores de tipo montacoches, para diferentes talleres de nuestros clientes, facilitando y mejorando sus procesos automotrices.",
+    "client": "Industria Automotriz",
+    "year": "2024",
+    "folder": "upcoweb/projects/movilidad_vertical/montacoches",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742871318/ascensor_montacoches_fotos_inver_tres_bogota_1_-_copia_-_copia_i0h83q.png"
+  },
+  {
+    "id": 10,
+    "title": "Ascensores Media Cabina",
+    "category": "Movilidad Vertical",
+    "description": "Diseñamos e implementamos ascensores de media cabina para diferentes clientes.",
+    "client": "Hogar - Oficina",
+    "year": "2023",
+    "folder": "upcoweb/projects/movilidad_vertical/ascensor_m_cabina",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742869831/PLATAFORMA_ELEVADORA_xk6chk.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Montacargas Mixtos",
+    "category": "Movilidad Vertical",
+    "description": "Diseñamos e implementamos montacargas para diversos requerimientos de nuestros clientes de tipo Mixto, el cual se usa para carga y personal.",
+    "client": "Industria Alimentos",
+    "year": "2023",
+    "folder": "upcoweb/projects/movilidad_vertical/montacargas_m",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742870429/AMCAX_-_LAMINA_ROBLONADA_-_AMARILLO_dabvbk.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Elevadores Montaplatos",
+    "category": "Movilidad Vertical",
+    "description": "Diseñamos e implementamos elevadores tipo montaplatos para solventar requerimientos de nuestros clientes en sus locales.",
+    "client": "Industria Alimentos",
+    "year": "2023",
+    "folder": "upcoweb/projects/movilidad_vertical/montaplatos",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742870949/WhatsApp_Image_2023-05-18_at_3.26.22_PM_xmkyqd.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Elevadores Tipo Oruga - Silla de Ruedas",
+    "category": "Movilidad Vertical",
+    "description": "Implementamos elevadores tipo oruga como soluciones de movilidad para diferentes necesidades de las personas con movilidad restringida.",
+    "client": "Hogar - Oficina",
+    "year": "2024",
+    "folder": "upcoweb/projects/movilidad_vertical/elv_oruga",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742871612/ORUGA_INVERSIONES_PANORAMIA_2_rtguii.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Sillas Salva Escaleras",
+    "category": "Movilidad Vertical",
+    "description": "Implementamos sillas salva escaleras que solucionan la movilidad de las personas en silla de ruedas.",
+    "client": "Hogar - Oficina",
+    "year": "2023",
+    "folder": "upcoweb/projects/movilidad_vertical/silla_salva_esc",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742871876/SSE_3_o4oucl.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Plataforma Salva Escaleras",
+    "category": "Movilidad Vertical",
+    "description": "Implementamos plataformas salva escaleras que solucionan la movilidad de las personas en silla de ruedas.",
+    "client": "Hogar - Oficina",
+    "year": "2023",
+    "folder": "upcoweb/projects/movilidad_vertical/plata_salva_esc",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742872072/PSE_ATERRIZADA_fa8naw.jpg"
   }
 ]
