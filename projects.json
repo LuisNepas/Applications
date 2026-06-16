@@ -21,13 +21,13 @@
   },
   {
     "id": 3,
-    "title": "Mantenimiento Integral de Sistemas Hidráulicos",
-    "category": "Mantenimiento",
-    "description": "Programa de mantenimiento preventivo y correctivo para sistema hidráulico de maquinaria pesada, aumentando vida útil en 60%.",
-    "client": "Sector Minero",
-    "year": "2023",
-    "folder": "upcoweb/projects/mantenimiento/sistema-hidraulico",
-    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/mantenimiento/sistema-hidraulico/portada.jpg"
+    "title": "Tripode de Izaje - 250 Kg",
+    "category": "Movilidad ",
+    "description": "Diseñamos un tripode especial telescópico para izaje de mantenimiento de motores de 250 Kg.",
+    "client": "Industria Alimenticia",
+    "year": "2025",
+    "folder": "upcoweb/projects/movilidad_vertical/tripode",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1740705820/tripodefront.jpg"
   },
   {
     "id": 4,
