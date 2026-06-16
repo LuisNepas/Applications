@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Sistema de Automatización para Planta Procesadora GHB",
+    "category": "Automatización",
+    "description": "Implementación completa de sistema SCADA y PLC para control de línea de producción, reduciendo tiempos de operación en un 40%.",
+    "client": "Industria Alimenticia",
+    "year": "2024",
+    "folder": "upcoweb/projects/automatizacion/planta-procesadora",
+    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/automatizacion/planta-procesadora/portada.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Fabricación de Tableros de Control Industrial",
+    "category": "Fabricación",
+    "description": "Diseño y construcción de tableros eléctricos de potencia y control para planta de manufactura con certificación de calidad.",
+    "client": "Sector Manufacturero",
+    "year": "2024",
+    "folder": "upcoweb/projects/fabricacion/tableros-control",
+    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/fabricacion/tableros-control/portada.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mantenimiento Integral de Sistemas Hidráulicos",
+    "category": "Mantenimiento",
+    "description": "Programa de mantenimiento preventivo y correctivo para sistema hidráulico de maquinaria pesada, aumentando vida útil en 60%.",
+    "client": "Sector Minero",
+    "year": "2023",
+    "folder": "upcoweb/projects/mantenimiento/sistema-hidraulico",
+    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/mantenimiento/sistema-hidraulico/portada.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Línea de Producción Automatizada",
+    "category": "Automatización",
+    "description": "Diseño e implementación de línea de ensamblaje automatizada con robots colaborativos y sistemas de visión artificial.",
+    "client": "Industria Automotriz",
+    "year": "2023",
+    "folder": "upcoweb/projects/automatizacion/linea-produccion",
+    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/automatizacion/linea-produccion/portada.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Estructuras Metálicas para Nave Industrial",
+    "category": "Fabricación",
+    "description": "Fabricación e instalación de estructuras metálicas de alta resistencia para ampliación de planta industrial.",
+    "client": "Sector Logístico",
+    "year": "2023",
+    "folder": "upcoweb/projects/fabricacion/estructuras-metalicas",
+    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/fabricacion/estructuras-metalicas/portada.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sistema de Monitoreo IoT",
+    "category": "Automatización",
+    "description": "Implementación de sensores IoT y dashboard en tiempo real para monitoreo de variables críticas de producción.",
+    "client": "Sector Energético",
+    "year": "2024",
+    "folder": "upcoweb/projects/automatizacion/monitoreo-iot",
+    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/automatizacion/monitoreo-iot/portada.jpg"
+  }
+]
