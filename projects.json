@@ -11,13 +11,13 @@
   },
   {
     "id": 2,
-    "title": "Fabricación de Tableros de Control Industrial",
-    "category": "Fabricación",
-    "description": "Diseño y construcción de tableros eléctricos de potencia y control para planta de manufactura con certificación de calidad.",
-    "client": "Sector Manufacturero",
-    "year": "2024",
-    "folder": "upcoweb/projects/fabricacion/tableros-control",
-    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/fabricacion/tableros-control/portada.jpg"
+    "title": "Puertas Lanfor Automatizadas",
+    "category": "Automatización",
+    "description": "Automatizamos el proceso de apertura de dos puertas lanfor metálicas para el ingreso a la bodega principal",
+    "client": "Industria Cosmética",
+    "year": "2023",
+    "folder": "upcoweb/projects/automatizacion/puertasLanfor",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732909067/upcoweb/projects/automatizacion/puertasLanfor/zhasm9p9qnv0tfbnh54w.jpg"
   },
   {
     "id": 3,
