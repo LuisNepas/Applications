@@ -31,32 +31,52 @@
   },
   {
     "id": 4,
-    "title": "Línea de Producción Automatizada",
-    "category": "Automatización",
-    "description": "Diseño e implementación de línea de ensamblaje automatizada con robots colaborativos y sistemas de visión artificial.",
-    "client": "Industria Automotriz",
+    "title": "Elevador de 1.5 Toneladas - 3 paradas",
+    "category": "Movilidad Vertical",
+    "description": "Diseñamos un ascensor de 3 pisos para poder movilizar repuestos de una concesionaria - CERTIFICADO",
+    "client": "Industria Logística",
     "year": "2023",
-    "folder": "upcoweb/projects/automatizacion/linea-produccion",
-    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/automatizacion/linea-produccion/portada.jpg"
+    "folder": "upcoweb/projects/movilidad_vertical/elevador3p",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736271358/upcoweb/projects/movilidad_vertical/elevador3p/iszk585logtrrc4hydhe.jpg"
   },
   {
     "id": 5,
-    "title": "Estructuras Metálicas para Nave Industrial",
-    "category": "Fabricación",
-    "description": "Fabricación e instalación de estructuras metálicas de alta resistencia para ampliación de planta industrial.",
-    "client": "Sector Logístico",
-    "year": "2023",
-    "folder": "upcoweb/projects/fabricacion/estructuras-metalicas",
-    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/fabricacion/estructuras-metalicas/portada.jpg"
+    "title": "Elevador de 2 Toneladas - 2 paradas",
+    "category": "Movilidad Vertical",
+    "description": "Creamos un elevador para carga pesada en una concesionaria",
+    "client": "Industria Logística",
+    "year": "20234",
+    "folder": "upcoweb/projects/movilidad_vertical/elevador2p",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732326449/upcoweb/projects/movilidad_vertical/elevador2p/wfdetdpisfbaln3ccngu.jpg"
   },
   {
     "id": 6,
-    "title": "Sistema de Monitoreo IoT",
+    "title": "Niveladores de Muelle - 8 Toneladas",
     "category": "Automatización",
-    "description": "Implementación de sensores IoT y dashboard en tiempo real para monitoreo de variables críticas de producción.",
-    "client": "Sector Energético",
+    "description": "Fabricamos equipos para la optimización de operaciones logísticas mediante la instalación de niveladores de muelle de carga de alta calidad.",
+    "client": "Industria Logística",
     "year": "2024",
-    "folder": "upcoweb/projects/automatizacion/monitoreo-iot",
-    "image": "https://res.cloudinary.com/TU_CLOUD_NAME/image/upload/v1/upcoweb/projects/automatizacion/monitoreo-iot/portada.jpg"
+    "folder": "upcoweb/projects/movilidad_vertical/niveladorMuelle",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732329789/upcoweb/projects/movilidad_vertical/niveladorMuelle/niveladorMuelle.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Elevadores Montacargas",
+    "category": "Movilidad Vertical",
+    "description": "Diseñamos e implementamos montacargas para diversos requerimientos de nuestros clientes.",
+    "client": "Industria Autopartes",
+    "year": "2024",
+    "folder": "upcoweb/projects/movilidad_vertical/montacargas_n",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742870211/97ced46f-8c36-4f32-a227-16250d95ca4d_fmrzyp.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Elevador de Tijeras de 5 Toneladas - CERTIFICADO",
+    "category": "Movilidad Vertical",
+    "description": "Diseñamos dos elevadores de tijeras de capacidad de 5 toneladas de dimensiones 5x3 metros para nuestro cliente.",
+    "client": "Industria Autopartes",
+    "year": "2024",
+    "folder": "upcoweb/projects/movilidad_vertical/elevadortijeras",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736268149/upcoweb/projects/movilidad_vertical/elevadortijeras/knilcnfryq0ptjshxeu4.jpg"
   }
 ]
