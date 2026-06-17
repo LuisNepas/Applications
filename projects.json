@@ -6,6 +6,7 @@
     "description": "Producción de productos de alta precisión mediante tecnologías de matricería y CNC, garantizando calidad y eficiencia en cada pieza fabricada.",
     "client": "Industria Cosmética",
     "year": "2024",
+    "month": 3,
     "folder": "upcoweb/projects/automatizacion/elevadorCanecas",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732909307/upcoweb/projects/automatizacion/elevadorCanecas/cgvub0dcz2t1qqcgifew.jpg"
   },
@@ -16,6 +17,7 @@
     "description": "Automatizamos el proceso de apertura de dos puertas lanfor metálicas para el ingreso a la bodega principal",
     "client": "Industria Cosmética",
     "year": "2023",
+    "month": 5,
     "folder": "upcoweb/projects/automatizacion/puertasLanfor",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732909067/upcoweb/projects/automatizacion/puertasLanfor/zhasm9p9qnv0tfbnh54w.jpg"
   },
@@ -26,6 +28,7 @@
     "description": "Diseñamos un tripode especial telescópico para izaje de mantenimiento de motores de 250 Kg.",
     "client": "Industria Alimenticia",
     "year": "2025",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/tripode",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1740705820/tripodefront.jpg"
   },
@@ -36,6 +39,7 @@
     "description": "Diseñamos un ascensor de 3 pisos para poder movilizar repuestos de una concesionaria - CERTIFICADO",
     "client": "Industria Logística",
     "year": "2023",
+    "month": 12,
     "folder": "upcoweb/projects/movilidad_vertical/elevador3p",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736271358/upcoweb/projects/movilidad_vertical/elevador3p/iszk585logtrrc4hydhe.jpg"
   },
@@ -46,6 +50,7 @@
     "description": "Creamos un elevador para carga pesada en una concesionaria",
     "client": "Industria Logística",
     "year": "2024",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/elevador2p",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732326449/upcoweb/projects/movilidad_vertical/elevador2p/wfdetdpisfbaln3ccngu.jpg"
   },
@@ -56,6 +61,7 @@
     "description": "Fabricamos equipos para la optimización de operaciones logísticas mediante la instalación de niveladores de muelle de carga de alta calidad.",
     "client": "Industria Logística",
     "year": "2024",
+    "month": 4,
     "folder": "upcoweb/projects/movilidad_vertical/niveladorMuelle",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1732329789/upcoweb/projects/movilidad_vertical/niveladorMuelle/niveladorMuelle.jpg"
   },
@@ -66,6 +72,7 @@
     "description": "Diseñamos e implementamos montacargas para diversos requerimientos de nuestros clientes.",
     "client": "Industria Autopartes",
     "year": "2024",
+    "month": 5,
     "folder": "upcoweb/projects/movilidad_vertical/montacargas_n",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742870211/97ced46f-8c36-4f32-a227-16250d95ca4d_fmrzyp.jpg"
   },
@@ -76,6 +83,7 @@
     "description": "Diseñamos dos elevadores de tijeras de capacidad de 5 toneladas de dimensiones 5x3 metros para nuestro cliente.",
     "client": "Industria Autopartes",
     "year": "2024",
+    "month": 6,
     "folder": "upcoweb/projects/movilidad_vertical/elevadortijeras",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736268149/upcoweb/projects/movilidad_vertical/elevadortijeras/knilcnfryq0ptjshxeu4.jpg"
   },
@@ -86,6 +94,7 @@
     "description": "Diseñamos e implementamos elevadores de tipo montacoches, para diferentes talleres de nuestros clientes, facilitando y mejorando sus procesos automotrices.",
     "client": "Industria Automotriz",
     "year": "2024",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/montacoches",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742871318/ascensor_montacoches_fotos_inver_tres_bogota_1_-_copia_-_copia_i0h83q.png"
   },
@@ -96,6 +105,7 @@
     "description": "Diseñamos e implementamos ascensores de media cabina para diferentes clientes.",
     "client": "Hogar - Oficina",
     "year": "2023",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/ascensor_m_cabina",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742869831/PLATAFORMA_ELEVADORA_xk6chk.jpg"
   },
@@ -106,6 +116,7 @@
     "description": "Diseñamos e implementamos montacargas para diversos requerimientos de nuestros clientes de tipo Mixto, el cual se usa para carga y personal.",
     "client": "Industria Alimentos",
     "year": "2023",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/montacargas_m",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742870429/AMCAX_-_LAMINA_ROBLONADA_-_AMARILLO_dabvbk.jpg"
   },
@@ -116,6 +127,7 @@
     "description": "Diseñamos e implementamos elevadores tipo montaplatos para solventar requerimientos de nuestros clientes en sus locales.",
     "client": "Industria Alimentos",
     "year": "2023",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/montaplatos",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742870949/WhatsApp_Image_2023-05-18_at_3.26.22_PM_xmkyqd.jpg"
   },
@@ -126,6 +138,7 @@
     "description": "Implementamos elevadores tipo oruga como soluciones de movilidad para diferentes necesidades de las personas con movilidad restringida.",
     "client": "Hogar - Oficina",
     "year": "2024",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/elv_oruga",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742871612/ORUGA_INVERSIONES_PANORAMIA_2_rtguii.jpg"
   },
@@ -136,6 +149,7 @@
     "description": "Implementamos sillas salva escaleras que solucionan la movilidad de las personas en silla de ruedas.",
     "client": "Hogar - Oficina",
     "year": "2023",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/silla_salva_esc",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742871876/SSE_3_o4oucl.jpg"
   },
@@ -146,6 +160,7 @@
     "description": "Implementamos plataformas salva escaleras que solucionan la movilidad de las personas en silla de ruedas.",
     "client": "Hogar - Oficina",
     "year": "2023",
+    "month": 1,
     "folder": "upcoweb/projects/movilidad_vertical/plata_salva_esc",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742872072/PSE_ATERRIZADA_fa8naw.jpg"
   },
@@ -156,6 +171,7 @@
     "description": "Se repotenció un elevador de carga para uno de nuestros clientes, con el fin de optimizar los trabajos en las bodegas del aréa de repuestos y logística",
     "client": "Industria de Autopartes",
     "year": "2026",
+    "month": 4,
     "folder": "upcoweb/projects/movilidad_vertical/elevador3pcasabaca",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781654948/IMG_20260527_090224_ncdkzk.jpg"
   },
@@ -166,6 +182,7 @@
     "description": "Se realizó el mantenimiento de compresores de tornillo y pistón, para mantener la coninuidad y operatividad de los equipos en las locaciones de nuestros clientes.",
     "client": "Automotriz",
     "year": "2025",
+    "month": 8,
     "folder": "upcoweb/projects/mantenimiento/m_compresores",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655353/IMG_20250816_100010_tppvhl.jpg"
   },
@@ -176,6 +193,7 @@
     "description": "Se realizó el mantenimiento general a generadores de ozono, para evitar interrupciones no deseadas en su funcionamiento.",
     "client": "Industria Química",
     "year": "2025",
+    "month": 3,
     "folder": "upcoweb/projects/mantenimiento/m_gozono",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655690/IMG_20250826_132858_netx3k.jpg"
   },
@@ -186,6 +204,7 @@
     "description": "Se realizó la limpieza correspondiente de las pantallas publicitarias de nuestro cliente para evitar acumulación de contaminantes en toda su estructura y pantalla.",
     "client": "Automotriz",
     "year": "2025",
+    "month": 9,
     "folder": "upcoweb/projects/mantenimiento/m_pantallas",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655922/IMG_20250830_120415_k8tgcd.jpg"
   },
@@ -196,6 +215,7 @@
     "description": "Se realizan mantenimientos completos a montacargas de nuestros clientes para que operen de forma eficiente en sus bodegas.",
     "client": "Industria Logística",
     "year": "2025",
+    "month": 6,
     "folder": "upcoweb/projects/mantenimiento/m_montacargas_baoli",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781656135/IMG_20250905_110714_spodqc.jpg"
   },
@@ -206,6 +226,7 @@
     "description": "Se realizan mantenimientos completos a montacargas especiales y apiladores de nuestros clientes.",
     "client": "Industria Logística",
     "year": "2025",
+    "month": 6,
     "folder": "upcoweb/projects/mantenimiento/m_montacargas_t",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781656326/IMG_20250905_135621_ojps8n.jpg"
   },
@@ -216,6 +237,7 @@
     "description": "Se realizan mantenimientos completos correctivos y preventivos en diferentes ascensores residenciales y empresariales de nuestros clientes.",
     "client": "Edificios",
     "year": "2024",
+    "month": 8,
     "folder": "upcoweb/projects/mantenimiento/m_ascensores",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657305/IMG_20240628_094413_z4k3ad.jpg"
   },
@@ -226,6 +248,7 @@
     "description": "Se realizan mantenimientos completos correctivos y preventivos en diferentes ascensores residenciales y empresariales de nuestros clientes.",
     "client": "Edificios",
     "year": "2025",
+    "month": 6,
     "folder": "upcoweb/projects/matriceria/cncs",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657562/IMG_20240624_122109_gsyant.jpg"
   },
@@ -236,6 +259,7 @@
     "description": "Se realizan mantenimientos de elevadores de carga para optimizar el buen funcionamiento de estos equipos en las instalaciones de nuestros clientes.",
     "client": "Industria",
     "year": "2025",
+    "month": 1,
     "folder": "upcoweb/projects/mantenimiento/m_elevadores_c",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657904/IMG_20250331_122216_f4iusu.jpg"
   },
@@ -246,6 +270,7 @@
     "description": "Se instaló un sistema de seguridad a uno de nuestros clientes para su local, consta de una cámara Domo de alta resolución 360°",
     "client": "Industria Autopartes",
     "year": "2025",
+    "month": 5,
     "folder": "upcoweb/projects/domotica/camara_gen",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781658196/IMG_20250415_182818_jbr3bo.jpg"
   },
@@ -256,6 +281,7 @@
     "description": "Se fabricó un juego de rampas para exhibición de vehiculos de nuestro cliente, con una capacidad de hasta 4 toneladas.",
     "client": "Industria Autopartes",
     "year": "2025",
+    "month": 8,
     "folder": "upcoweb/projects/estructuras/rampa_kia",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781658518/IMG_20250812_092459_lvdryj.jpg"
   },
@@ -266,6 +292,7 @@
     "description": "Se diseño y fabricó un equipo móvil y de transporte para la elevación de canecas de hasta 35Kg para solventar problemas de movilidad en las instalaciones de nuestro cliente.",
     "client": "Industria Autopartes",
     "year": "2026",
+    "month": 10,
     "folder": "upcoweb/projects/proyectos_per/elevador_movil_brazo",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781660409/IMG_20251117_102306_msodxe.jpg"
   },
@@ -276,6 +303,7 @@
     "description": "Se realizó el desmontaje y logística de equipos de elevación automotrices en una de las locaciones de nuestro cliente.",
     "client": "Industria Automotriz",
     "year": "2025",
+    "month": 10,
     "folder": "upcoweb/projects/mantenimiento/desmontaje",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781660843/IMG_20251125_163738_ovd1wl.jpg"
   },
@@ -286,6 +314,7 @@
     "description": "Se repotenció un equipo de elevación automotriz e instaló de forma óptima en las nuevas instalaciones de nuestro cliente para poder exhibir sus vehículos.",
     "client": "Industria Automotriz",
     "year": "2025",
+    "month": 12,
     "folder": "upcoweb/projects/movilidad_vertical/elevador_h",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781662034/WhatsApp_Image_2026-06-16_at_9.05.31_PM_ud9vsz.jpg"
   },
@@ -296,6 +325,7 @@
     "description": "Se brindó el servicio de pintura para un par de elevadores de 2 postes, esto se pintó ya instalados en las nuevas instalaciones del cliente.",
     "client": "Industria Automotriz",
     "year": "2025",
+    "month": 12,
     "folder": "upcoweb/projects/estructuras/pintura_el2p",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781662368/IMG_20251215_205700_stc7ke.jpg"
   },
@@ -306,6 +336,7 @@
     "description": "Se repotenció 2 elevadores automotrices e instaló de forma óptima en las nuevas instalaciones de nuestro cliente.",
     "client": "Industria Automotriz",
     "year": "2026",
+    "month": 3,
     "folder": "upcoweb/projects/movilidad_vertical/elevador2pjac",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781662886/IMG_20260302_172949_lyfnjo.jpg"
   },
@@ -314,8 +345,9 @@
     "title": "Elevador Móvil Hidráulico - Giro 360°",
     "category": "Movilidad Vertical",
     "description": "Se diseño y fabricó según los requerimientos del cliente un nuevo elevador con función telescópica para ellevantamiento de canecas de hasta 50Kg.",
-    "client": "Industria Cosmética",
+    "client": "Industria Automotriz",
     "year": "2026",
+    "month": 6,
     "folder": "upcoweb/projects/proyectos_per/elevador_volteador_h",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781663209/IMG_20260610_110419_leeywy.jpg"
   }
