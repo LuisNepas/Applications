@@ -52,7 +52,7 @@
   {
     "id": 6,
     "title": "Niveladores de Muelle - 8 Toneladas",
-    "category": "Automatización",
+    "category": "Movilidad Vertical",
     "description": "Fabricamos equipos para la optimización de operaciones logísticas mediante la instalación de niveladores de muelle de carga de alta calidad.",
     "client": "Industria Logística",
     "year": "2024",
@@ -148,5 +148,25 @@
     "year": "2023",
     "folder": "upcoweb/projects/movilidad_vertical/plata_salva_esc",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1742872072/PSE_ATERRIZADA_fa8naw.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Repotenciación de Elevador de Carga 3 Toneladas",
+    "category": "Movilidad Vertical",
+    "description": "Se repotenció un elevador de carga para uno de nuestros clientes, con el fin de optimizar los trabajos en las bodegas del aréa de repuestos y logística",
+    "client": "Industria de Autopartes",
+    "year": "2026",
+    "folder": "upcoweb/projects/movilidad_vertical/elevador3pcasabaca",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781654948/IMG_20260527_090224_ncdkzk.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Mantenimiento a Compresores Industriales",
+    "category": "Mantenimiento",
+    "description": "Se realizó el mantenimiento de compresores de tornillo y pistón, para mantener la coninuidad y operatividad de los equipos en las locaciones de nuestros clientes.",
+    "client": "Automotriz",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_compresores",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655353/IMG_20250816_100010_tppvhl.jpg"
   }
 ]
