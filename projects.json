@@ -2,8 +2,8 @@
   {
     "id": 1,
     "title": "Elevador Volteador de Canecas - Electrohidráulico",
-    "category": "Automatización",
-    "description": "Producción de productos de alta precisión mediante tecnologías de matricería y CNC, garantizando calidad y eficiencia en cada pieza fabricada.",
+    "category": "Proyectos Personalizados",
+    "description": "Se diseño y fabricó un elevador volteador de canecas de hasta 25kg para solventar problemas de ergonomía en sus operarios.",
     "client": "Industria Cosmética",
     "year": "2024",
     "month": 3,
@@ -245,7 +245,7 @@
     "id": 23,
     "title": "Fabricación de Ejes y Ruedas para equipos Móviles",
     "category": "Matricería y CNC's",
-    "description": "Se realizan mantenimientos completos correctivos y preventivos en diferentes ascensores residenciales y empresariales de nuestros clientes.",
+    "description": "Se fabricó diferentes ejes y ruedas para un equipo de alto tonelade industrial.",
     "client": "Edificios",
     "year": "2025",
     "month": 6,
@@ -292,7 +292,7 @@
     "description": "Se diseño y fabricó un equipo móvil y de transporte para la elevación de canecas de hasta 35Kg para solventar problemas de movilidad en las instalaciones de nuestro cliente.",
     "client": "Industria Autopartes",
     "year": "2026",
-    "month": 10,
+    "month": 2,
     "folder": "upcoweb/projects/proyectos_per/elevador_movil_brazo",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781660409/IMG_20251117_102306_msodxe.jpg"
   },
