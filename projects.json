@@ -258,5 +258,65 @@
     "year": "2025",
     "folder": "upcoweb/projects/estructuras/rampa_kia",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781658518/IMG_20250812_092459_lvdryj.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Elevador Móvil de Brazo Articulado",
+    "category": "Proyectos Personalizados",
+    "description": "Se diseño y fabricó un equipo móvil y de transporte para la elevación de canecas de hasta 35Kg para solventar problemas de movilidad en las instalaciones de nuestro cliente.",
+    "client": "Industria Autopartes",
+    "year": "2026",
+    "folder": "upcoweb/projects/proyectos_per/elevador_movil_brazo",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781660409/IMG_20251117_102306_msodxe.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Desmontaje de Equipos Automotrices",
+    "category": "Mantenimiento",
+    "description": "Se realizó el desmontaje y logística de equipos de elevación automotrices en una de las locaciones de nuestro cliente.",
+    "client": "Industria Automotriz",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/desmontaje",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781660843/IMG_20251125_163738_ovd1wl.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Repotenciación e Instalación de Elevador de Exhibición de Autos",
+    "category": "Movilidad Vertical",
+    "description": "Se repotenció un equipo de elevación automotriz e instaló de forma óptima en las nuevas instalaciones de nuestro cliente para poder exhibir sus vehículos.",
+    "client": "Industria Automotriz",
+    "year": "2025",
+    "folder": "upcoweb/projects/movilidad_vertical/elevador_h",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781662034/WhatsApp_Image_2026-06-16_at_9.05.31_PM_ud9vsz.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Servicio de Pintura para Elevadores 2 Postes",
+    "category": "Estructuras Metálicas",
+    "description": "Se brindó el servicio de pintura para un par de elevadores de 2 postes, esto se pintó ya instalados en las nuevas instalaciones del cliente.",
+    "client": "Industria Automotriz",
+    "year": "2025",
+    "folder": "upcoweb/projects/estructuras/pintura_el2p",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781662368/IMG_20251215_205700_stc7ke.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Repotenciación e Instalación de Elevadores 2 Postes",
+    "category": "Movilidad Vertical",
+    "description": "Se repotenció 2 elevadores automotrices e instaló de forma óptima en las nuevas instalaciones de nuestro cliente.",
+    "client": "Industria Automotriz",
+    "year": "2026",
+    "folder": "upcoweb/projects/movilidad_vertical/elevador2pjac",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781662886/IMG_20260302_172949_lyfnjo.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Elevador Móvil Hidráulico - Giro 360°",
+    "category": "Movilidad Vertical",
+    "description": "Se diseño y fabricó según los requerimientos del cliente un nuevo elevador con función telescópica para ellevantamiento de canecas de hasta 50Kg.",
+    "client": "Industria Automotriz",
+    "year": "2026",
+    "folder": "upcoweb/projects/proyectos_per/elevador_volteador_h",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781663209/IMG_20260610_110419_leeywy.jpg"
   }
 ]
