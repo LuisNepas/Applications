@@ -168,5 +168,125 @@
     "year": "2025",
     "folder": "upcoweb/projects/mantenimiento/m_compresores",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655353/IMG_20250816_100010_tppvhl.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Mantenimiento a Generadores de Ozono",
+    "category": "Mantenimiento",
+    "description": "Se realizó el mantenimiento general a generadores de ozono, para evitar interrupciones no deseadas en su funcionamiento.",
+    "client": "Industria Química",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_gozono",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655690/IMG_20250826_132858_netx3k.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Limpieza total - Pantallas Publicitarias",
+    "category": "Mantenimiento",
+    "description": "Se realizó la limpieza correspondiente de las pantallas publicitarias de nuestro cliente para evitar acumulación de contaminantes en toda su estructura y pantalla.",
+    "client": "Automotriz",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_pantallas",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655922/IMG_20250830_120415_k8tgcd.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Limpieza total - Pantallas Publicitarias",
+    "category": "Mantenimiento",
+    "description": "Se realizó la limpieza correspondiente de las pantallas publicitarias de nuestro cliente para evitar acumulación de contaminantes en toda su estructura y pantalla.",
+    "client": "Automotriz",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_pantallas",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781655922/IMG_20250830_120415_k8tgcd.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Mantenimiento de Montacargas",
+    "category": "Mantenimiento",
+    "description": "Se realizan mantenimientos completos a montacargas de nuestros clientes para que operen de forma eficiente en sus bodegas.",
+    "client": "Industria Logística",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_montacargas_baoli",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781656135/IMG_20250905_110714_spodqc.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Mantenimiento de Montacargas Trilaterales y Apiladores",
+    "category": "Mantenimiento",
+    "description": "Se realizan mantenimientos completos a montacargas especiales y apiladores de nuestros clientes.",
+    "client": "Industria Logística",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_montacargas_t",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781656326/IMG_20250905_135621_ojps8n.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Mantenimiento completo de Asensores",
+    "category": "Mantenimiento",
+    "description": "Se realizan mantenimientos completos correctivos y preventivos en diferentes ascensores residenciales y empresariales de nuestros clientes.",
+    "client": "Edificios",
+    "year": "2024",
+    "folder": "upcoweb/projects/mantenimiento/m_ascensores",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657305/IMG_20240628_094413_z4k3ad.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Mantenimiento completo de Asensores",
+    "category": "Mantenimiento",
+    "description": "Se realizan mantenimientos completos correctivos y preventivos en diferentes ascensores residenciales y empresariales de nuestros clientes.",
+    "client": "Edificios",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_ascensores",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657305/IMG_20240628_094413_z4k3ad.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Fabricación de Ejes y Ruedas para equipos Móviles",
+    "category": "Matricería y CNC's",
+    "description": "Se realizan mantenimientos completos correctivos y preventivos en diferentes ascensores residenciales y empresariales de nuestros clientes.",
+    "client": "Edificios",
+    "year": "2025",
+    "folder": "upcoweb/projects/matriceria/cncs",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657562/IMG_20240624_122109_gsyant.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Fabricación de Ejes y Ruedas para equipos Móviles",
+    "category": "Matricería y CNC's",
+    "description": "Se realizan mantenimientos completos correctivos y preventivos en diferentes ascensores residenciales y empresariales de nuestros clientes.",
+    "client": "Edificios",
+    "year": "2025",
+    "folder": "upcoweb/projects/matriceria/cncs",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657562/IMG_20240624_122109_gsyant.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Mantenimiento de Elevadores de Carga",
+    "category": "Mantenimiento",
+    "description": "Se realizan mantenimientos de elevadores de carga para optimizar el buen funcionamiento de estos equipos en las instalaciones de nuestros clientes.",
+    "client": "Industria",
+    "year": "2025",
+    "folder": "upcoweb/projects/mantenimiento/m_elevadores_c",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781657904/IMG_20250331_122216_f4iusu.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Instalación de Cámaras de Seguridad - Tipo Domo",
+    "category": "Seguridad Electrónica",
+    "description": "Se instaló un sistema de seguridad a uno de nuestros clientes para su local, consta de una cámara Domo de alta resolución 360°",
+    "client": "Industria Autopartes",
+    "year": "2025",
+    "folder": "upcoweb/projects/domotica/camara_gen",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781658196/IMG_20250415_182818_jbr3bo.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Rampa de exhibición de Camionetas y Automóviles",
+    "category": "Estructuras Metálicas",
+    "description": "Se fabricó un juego de rampas para exhibición de vehiculos de nuestro cliente, con una capacidad de hasta 4 toneladas.",
+    "client": "Industria Autopartes",
+    "year": "2025",
+    "folder": "upcoweb/projects/estructuras/rampa_kia",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781658518/IMG_20250812_092459_lvdryj.jpg"
   }
 ]
