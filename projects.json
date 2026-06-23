@@ -350,5 +350,16 @@
     "month": 6,
     "folder": "upcoweb/projects/proyectos_per/elevador_volteador_h",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1781663209/IMG_20260610_110419_leeywy.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Tanques y Cubetero en Acero Inoxidable",
+    "category": "Estructuras Metálicas",
+    "description": "Se diseño y fabricó tanques de suministro de diésel con su cubetero de contención contra derrames en acero inoxidable para la planta de nuestro cliente.",
+    "client": "Industria Automotriz",
+    "year": "2024",
+    "month": 4,
+    "folder": "upcoweb/projects/estructuras/tanqueCubetero",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1782247837/ADOBEPREM_7845926318457201_c95dlq.png"
   }
 ]
