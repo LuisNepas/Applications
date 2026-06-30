@@ -361,5 +361,16 @@
     "month": 4,
     "folder": "upcoweb/projects/estructuras/tanqueCubetero",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1782247837/ADOBEPREM_7845926318457201_c95dlq.png"
+  },
+  {
+    "id": 34,
+    "title": "Instalación Ascensor 8 personas - Guayaquil",
+    "category": "Movilidad Vertical",
+    "description": "Se instaló un ascensor en la Plaza Comercial el Batan - Guayaquil para nuestro cliente.",
+    "client": "Industria Comercial",
+    "year": "2026",
+    "month": 5,
+    "folder": "upcoweb/projects/movilidad_vertical/ascensor_gye",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1782844530/IMG_20260109_153416_7_sof9yv_j38rim.jpg"
   }
 ]
