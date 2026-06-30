@@ -372,5 +372,16 @@
     "month": 5,
     "folder": "upcoweb/projects/movilidad_vertical/ascensor_gye",
     "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1782844530/IMG_20260109_153416_7_sof9yv_j38rim.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Instalación Ascensor residencial",
+    "category": "Movilidad Vertical",
+    "description": "Se instaló un ascensor de capacidad 6 personas para el edificio de nuestro cliente.",
+    "client": "Industria Comercial",
+    "year": "2026",
+    "month": 4,
+    "folder": "upcoweb/projects/movilidad_vertical/ascensor_1",
+    "image": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1782846632/ascensor-pasajero-puerta-automatica-9-r1nhtosrq20hp2ftmcaiburw9p3unie22ov1nm2s8g_uak6lf.webp"
   }
 ]
