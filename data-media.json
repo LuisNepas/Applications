@@ -7,5 +7,11 @@
     { "name": "Wells", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736271717/upcoweb/brands/f0hvu8bwuihvckj0sepy.png" },
     { "name": "RJAL", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1784926249/LOGO_RJAL_FOODS-removebg-preview_br6hge_3_vtie5k.png" },
     { "name": "Indeva", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1784925820/logo_neubuh.svg" }
+  ],
+  "socialLinks": [
+    { "platform": "Facebook", "href": "https://www.facebook.com/profile.php?id=61581239181489" },
+    { "platform": "Instagram", "href": "https://www.instagram.com/upcoec/?hl=es" },
+    { "platform": "LinkedIn", "href": "https://www.linkedin.com/company/upco-un-ascenso-sin-limites-cia-ltda/" },
+    { "platform": "YouTube", "href": "https://youtube.com/@upcoec" }
   ]
 }
