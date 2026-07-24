@@ -1,5 +1,11 @@
 {
   "catalogUrl": "https://heyzine.com/flip-book/64651408b4.html",
   "videoUrl": "https://www.youtube.com/embed/TU_ID_DE_VIDEO",
-  "thumbnailUrl": "/images/video-thumbnail.jpg"
+  "thumbnailUrl": "/images/video-thumbnail.jpg",
+  "clients": [
+    { "name": "FEMM", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736272203/upcoweb/brands/g0ebuedztukyqyatuhgn.png" },
+    { "name": "Wells", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736271717/upcoweb/brands/f0hvu8bwuihvckj0sepy.png" },
+    { "name": "RJAL", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1784926249/LOGO_RJAL_FOODS-removebg-preview_br6hge_3_vtie5k.png" },
+    { "name": "Indeva", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1784925820/logo_neubuh.svg" }
+  ]
 }
