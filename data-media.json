@@ -2,6 +2,44 @@
   "catalogUrl": "https://heyzine.com/flip-book/64651408b4.html",
   "videoUrl": "https://www.youtube.com/embed/TU_ID_DE_VIDEO",
   "thumbnailUrl": "/images/video-thumbnail.jpg",
+  "solutions": [
+    {
+      "title": "Ingeniería y Soluciones Industriales",
+      "description": "Diseñamos, fabricamos e implementamos soluciones de automatización que optimizan procesos industriales, reducen errores y aumentan la productividad.",
+      "features": [
+        "Automatización y control",
+        "Neumática",
+        "Hidráulica",
+        "Investigación y Desarrollo"
+      ],
+      "image": "/images/automation.jpg",
+      "brochureUrl": "https://tu-enlace-externo.com/brochure-ingenieria.pdf"
+    },
+    {
+      "title": "Fabricación e Infraestructura Industrial",
+      "description": "Diseñamos y fabricamos soluciones estructurales adaptadas a cada operación.",
+      "features": [
+        "Movilidad Vertical",
+        "Estructuras metálicas",
+        "Máquinas y Equipos en Acero Inoxidable",
+        "Manipuladores Industriales",
+        "Proyectos Personalizables"
+      ],
+      "image": "/images/fabrication.jpg",
+      "brochureUrl": "https://tu-enlace-externo.com/brochure-fabricacion.pdf"
+    },
+    {
+      "title": "Mantenimiento Industrial y Corporativo",
+      "description": "Garantizamos la continuidad operativa de tus instalaciones mediante mantenimiento integral.",
+      "features": [
+        "Mantenimiento Industrial Predictivo",
+        "Mantenimiento Industrial Preventivo",
+        "Mantenimiento Industrial Correctivo"
+      ],
+      "image": "/images/maintenance.jpg",
+      "brochureUrl": "https://tu-enlace-externo.com/brochure-mantenimiento.pdf"
+    }
+  ],
   "clients": [
     { "name": "FEMM", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736272203/upcoweb/brands/g0ebuedztukyqyatuhgn.png" },
     { "name": "Wells", "logo": "https://res.cloudinary.com/dyhytj4xb/image/upload/v1736271717/upcoweb/brands/f0hvu8bwuihvckj0sepy.png" },
